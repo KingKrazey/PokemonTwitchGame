@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0001-base",
+    "displayName": "Bulbasaur",
+    "baseSpecies": "Bulbasaur",
+    "formCode": "base",
+    "rarity": "common",
+    "canBeShiny": true,
+    "types": ["Grass", "Poison"]
+  },
+  {
+    "id": "0006-mega-x",
+    "displayName": "Mega Charizard X",
+    "baseSpecies": "Charizard",
+    "formCode": "mega-x",
+    "rarity": "mega",
+    "canBeShiny": true,
+    "types": ["Fire", "Dragon"]
+  },
+  {
+    "id": "0052-galar",
+    "displayName": "Galarian Meowth",
+    "baseSpecies": "Meowth",
+    "formCode": "galarian",
+    "rarity": "regional",
+    "canBeShiny": true,
+    "types": ["Steel"]
+  },
+  {
+    "id": "0006-gmax",
+    "displayName": "G-Max Charizard",
+    "baseSpecies": "Charizard",
+    "formCode": "gmax",
+    "rarity": "gmax",
+    "canBeShiny": true,
+    "types": ["Fire", "Flying"]
+  }
+]

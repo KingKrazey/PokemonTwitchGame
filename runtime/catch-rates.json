@@ -1,0 +1,12 @@
+{
+  "_defaults": {
+    "common": 80,
+    "uncommon": 70,
+    "rare": 60,
+    "legendary": 40,
+    "mythical": 35,
+    "mega": 30,
+    "gmax": 30,
+    "regional": 80
+  }
+}

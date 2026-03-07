@@ -1,0 +1,50 @@
+{
+  "common": {
+    "defaultCatchRate": 80,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "uncommon": {
+    "defaultCatchRate": 70,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "rare": {
+    "defaultCatchRate": 60,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "legendary": {
+    "defaultCatchRate": 40,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "mythical": {
+    "defaultCatchRate": 35,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "mega": {
+    "defaultCatchRate": 30,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "gmax": {
+    "defaultCatchRate": 30,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  },
+  "regional": {
+    "defaultCatchRate": 70,
+    "defaultShinyOdds": 512,
+    "commandEnabled": true,
+    "cooldownSeconds": 0
+  }
+}
