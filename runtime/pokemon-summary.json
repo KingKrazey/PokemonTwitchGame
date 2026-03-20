@@ -1,0 +1,21 @@
+{
+  "totalEntries": 4,
+  "byRarity": {
+    "common": 1,
+    "uncommon": 1,
+    "mega": 1,
+    "rare": 1
+  },
+  "byFormType": {
+    "base": 3,
+    "mega": 1
+  },
+  "byRegion": {
+    "none": 4
+  },
+  "speciesCount": 3,
+  "formEntries": 1,
+  "shinyEligible": 4,
+  "starters": 1,
+  "generatedAt": "2026-03-20T19:36:15.101Z"
+}
