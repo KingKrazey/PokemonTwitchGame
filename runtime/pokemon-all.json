@@ -1,38 +1,66 @@
 [
   {
     "id": "0001-base",
+    "dex": 1,
     "displayName": "Bulbasaur",
     "baseSpecies": "Bulbasaur",
     "formCode": "base",
+    "formType": "base",
+    "region": null,
     "rarity": "common",
+    "types": ["Grass", "Poison"],
     "canBeShiny": true,
-    "types": ["Grass", "Poison"]
+    "catchRateKey": "starter",
+    "catchRateOverride": null,
+    "enabled": true,
+    "tags": ["starter", "kanto"]
   },
   {
-    "id": "0006-mega-x",
-    "displayName": "Mega Charizard X",
-    "baseSpecies": "Charizard",
-    "formCode": "mega-x",
+    "id": "0002-base",
+    "dex": 2,
+    "displayName": "Ivysaur",
+    "baseSpecies": "Ivysaur",
+    "formCode": "base",
+    "formType": "base",
+    "region": null,
+    "rarity": "uncommon",
+    "types": ["Grass", "Poison"],
+    "canBeShiny": true,
+    "catchRateKey": null,
+    "catchRateOverride": null,
+    "enabled": true,
+    "tags": ["kanto"]
+  },
+  {
+    "id": "0003-base",
+    "dex": 3,
+    "displayName": "Venusaur",
+    "baseSpecies": "Venusaur",
+    "formCode": "base",
+    "formType": "base",
+    "region": null,
+    "rarity": "rare",
+    "types": ["Grass", "Poison"],
+    "canBeShiny": true,
+    "catchRateKey": null,
+    "catchRateOverride": null,
+    "enabled": true,
+    "tags": ["kanto"]
+  },
+  {
+    "id": "0003-mega",
+    "dex": 3,
+    "displayName": "Mega Venusaur",
+    "baseSpecies": "Venusaur",
+    "formCode": "mega",
+    "formType": "mega",
+    "region": null,
     "rarity": "mega",
+    "types": ["Grass", "Poison"],
     "canBeShiny": true,
-    "types": ["Fire", "Dragon"]
-  },
-  {
-    "id": "0052-galar",
-    "displayName": "Galarian Meowth",
-    "baseSpecies": "Meowth",
-    "formCode": "galarian",
-    "rarity": "regional",
-    "canBeShiny": true,
-    "types": ["Steel"]
-  },
-  {
-    "id": "0006-gmax",
-    "displayName": "G-Max Charizard",
-    "baseSpecies": "Charizard",
-    "formCode": "gmax",
-    "rarity": "gmax",
-    "canBeShiny": true,
-    "types": ["Fire", "Flying"]
+    "catchRateKey": null,
+    "catchRateOverride": null,
+    "enabled": true,
+    "tags": ["mega", "kanto"]
   }
 ]
