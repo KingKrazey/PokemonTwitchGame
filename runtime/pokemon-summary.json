@@ -1,21 +1,31 @@
 {
-  "totalEntries": 4,
+  "totalEntries": 67,
   "byRarity": {
-    "common": 1,
-    "uncommon": 1,
-    "mega": 1,
-    "rare": 1
+    "common": 8,
+    "uncommon": 3,
+    "mega": 7,
+    "rare": 14,
+    "gmax": 7,
+    "regional": 11,
+    "legendary": 15,
+    "mythical": 2
   },
   "byFormType": {
-    "base": 3,
-    "mega": 1
+    "base": 33,
+    "mega": 7,
+    "gmax": 7,
+    "regional": 11,
+    "alternate": 9
   },
   "byRegion": {
-    "none": 4
+    "none": 56,
+    "Alola": 5,
+    "Galar": 4,
+    "Hisui": 2
   },
-  "speciesCount": 3,
-  "formEntries": 1,
-  "shinyEligible": 4,
-  "starters": 1,
-  "generatedAt": "2026-03-20T19:36:34.349Z"
+  "speciesCount": 36,
+  "formEntries": 34,
+  "shinyEligible": 61,
+  "starters": 5,
+  "generatedAt": "2026-03-20T19:42:23.390Z"
 }
