@@ -1,21 +1,15 @@
 {
-  "_defaults": {
-    "common": 90,
-    "uncommon": 84,
-    "rare": 78,
-    "regional": 76,
-    "legendary": 68,
-    "mythical": 64,
-    "mega": 62,
-    "gmax": 60
-  },
+  "_default": 85,
   "_keys": {
     "starter": 82,
     "pseudo": 72,
-    "box-legendary": 64,
-    "roaming-legendary": 66,
+    "legendary": 68,
+    "mythical": 64,
+    "paradox": 74,
     "ultra-beast": 67,
-    "paradox": 74
+    "regional": 76,
+    "mega": 62,
+    "gmax": 60
   },
   "_overrides": {}
 }
