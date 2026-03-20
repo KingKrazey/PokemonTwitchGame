@@ -1,34 +1,10 @@
 {
-  "common": {
-    "weight": 55,
-    "defaultCatchRate": 80
-  },
-  "uncommon": {
-    "weight": 20,
-    "defaultCatchRate": 70
-  },
-  "rare": {
-    "weight": 12,
-    "defaultCatchRate": 60
-  },
-  "legendary": {
-    "weight": 3,
-    "defaultCatchRate": 40
-  },
-  "mythical": {
-    "weight": 2,
-    "defaultCatchRate": 35
-  },
-  "mega": {
-    "weight": 2,
-    "defaultCatchRate": 30
-  },
-  "gmax": {
-    "weight": 1,
-    "defaultCatchRate": 30
-  },
-  "regional": {
-    "weight": 5,
-    "defaultCatchRate": 80
-  }
+  "common": { "weight": 55 },
+  "uncommon": { "weight": 20 },
+  "rare": { "weight": 10 },
+  "regional": { "weight": 6 },
+  "legendary": { "weight": 4 },
+  "mythical": { "weight": 2 },
+  "mega": { "weight": 2 },
+  "gmax": { "weight": 1 }
 }
