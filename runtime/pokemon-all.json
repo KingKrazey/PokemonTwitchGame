@@ -1,4 +1,7 @@
-[
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-03-21T00:00:00Z",
+  "pokemon": [
   {
     "id": "0001-base",
     "dex": 1,
@@ -16104,3 +16107,4 @@
     "tags": ["mythical"]
   }
 ]
+}
