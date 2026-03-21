@@ -1,15 +1,7 @@
 {
-  "_default": 85,
-  "_keys": {
-    "starter": 82,
-    "pseudo": 72,
-    "legendary": 68,
-    "mythical": 64,
-    "paradox": 74,
-    "ultra-beast": 67,
-    "regional": 76,
-    "mega": 62,
-    "gmax": 60
+  "defaultCatchRate": 80,
+  "tagRules": {
+    "starter": 100
   },
-  "_overrides": {}
+  "overrides": {}
 }
