@@ -1,8 +1,0 @@
-Bulbasaur
-Charmander
-Squirtle
-Pikachu
-Vulpix
-Meowth
-Growlithe
-Eevee
