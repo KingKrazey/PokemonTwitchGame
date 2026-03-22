@@ -2736,7 +2736,7 @@
     "types": ["Electric"],
     "canBeShiny": true,
     "enabled": true,
-    "tags": ["starter"]
+    "tags": [""]
   },
   {
     "id": "0173-base",
