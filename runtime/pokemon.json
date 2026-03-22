@@ -16105,19 +16105,6 @@
     "canBeShiny": false,
     "enabled": true,
     "tags": ["mythical"]
-  },
-    {
-    "id": "0003-Gmax",
-    "dex": 3,
-    "displayName": "Super Mega Venusaur Maxipad",
-    "baseSpecies": "Venusaur",
-    "formCode": "Gmax",
-    "formType": "Gmax",
-    "types": ["Grass", "Poison"],
-    "canBeShiny": true,
-    "enabled": true, 
-    "enabled": true, 
-    "tags": ["mythical"]
-    }
+  }
 ]
 }
