@@ -9351,18 +9351,6 @@
     "tags": []
   },
   {
-    "id": "0627-hisui",
-    "dex": 627,
-    "displayName": "Hisuian Rufflet",
-    "baseSpecies": "Rufflet",
-    "formCode": "hisui",
-    "formType": "regional",
-    "types": ["Psychic", "Flying"],
-    "canBeShiny": true,
-    "enabled": true,
-    "tags": []
-  },
-  {
     "id": "0628-base",
     "dex": 628,
     "displayName": "Braviary",
