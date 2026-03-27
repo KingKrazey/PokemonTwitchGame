@@ -351,11 +351,11 @@
     "tags": []
   },
   {
-    "id": "0019-alola",
+    "id": "0019-alolan",
     "dex": 19,
     "displayName": "Alolan Rattata",
     "baseSpecies": "Rattata",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Dark", "Normal"],
     "canBeShiny": true,
@@ -375,11 +375,11 @@
     "tags": []
   },
   {
-    "id": "0020-alola",
+    "id": "0020-alolan",
     "dex": 20,
     "displayName": "Alolan Raticate",
     "baseSpecies": "Raticate",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Dark", "Normal"],
     "canBeShiny": true,
@@ -471,11 +471,11 @@
     "tags": []
   },
   {
-    "id": "0026-alola",
+    "id": "0026-alolan",
     "dex": 26,
     "displayName": "Alolan Raichu",
     "baseSpecies": "Raichu",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Electric", "Psychic"],
     "canBeShiny": true,
@@ -495,11 +495,11 @@
     "tags": []
   },
   {
-    "id": "0027-alola",
+    "id": "0027-alolan",
     "dex": 27,
     "displayName": "Alolan Sandshrew",
     "baseSpecies": "Sandshrew",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ice", "Steel"],
     "canBeShiny": true,
@@ -519,11 +519,11 @@
     "tags": []
   },
   {
-    "id": "0028-alola",
+    "id": "0028-alolan",
     "dex": 28,
     "displayName": "Alolan Sandslash",
     "baseSpecies": "Sandslash",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ice", "Steel"],
     "canBeShiny": true,
@@ -639,11 +639,11 @@
     "tags": []
   },
   {
-    "id": "0037-alola",
+    "id": "0037-alolan",
     "dex": 37,
     "displayName": "Alolan Vulpix",
     "baseSpecies": "Vulpix",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ice"],
     "canBeShiny": true,
@@ -663,11 +663,11 @@
     "tags": []
   },
   {
-    "id": "0038-alola",
+    "id": "0038-alolan",
     "dex": 38,
     "displayName": "Alolan Ninetales",
     "baseSpecies": "Ninetales",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ice", "Fairy"],
     "canBeShiny": true,
@@ -819,11 +819,11 @@
     "tags": []
   },
   {
-    "id": "0050-alola",
+    "id": "0050-alolan",
     "dex": 50,
     "displayName": "Alolan Diglett",
     "baseSpecies": "Diglett",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ground", "Steel"],
     "canBeShiny": true,
@@ -843,11 +843,11 @@
     "tags": []
   },
   {
-    "id": "0051-alola",
+    "id": "0051-alolan",
     "dex": 51,
     "displayName": "Alolan Dugtrio",
     "baseSpecies": "Dugtrio",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Ground", "Steel"],
     "canBeShiny": true,
@@ -879,11 +879,11 @@
     "tags": []
   },
   {
-    "id": "0052-alola",
+    "id": "0052-alolan",
     "dex": 52,
     "displayName": "Alolan Meowth",
     "baseSpecies": "Meowth",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Dark"],
     "canBeShiny": true,
@@ -891,11 +891,11 @@
     "tags": []
   },
   {
-    "id": "0052-galar",
+    "id": "0052-galarian",
     "dex": 52,
-    "displayName": "Galar Meowth",
+    "displayName": "Galarian Meowth",
     "baseSpecies": "Meowth",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Steel"],
     "canBeShiny": true,
@@ -915,11 +915,11 @@
     "tags": []
   },
   {
-    "id": "0053-alola",
+    "id": "0053-alolan",
     "dex": 53,
     "displayName": "Alolan Persian",
     "baseSpecies": "Persian",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Dark"],
     "canBeShiny": true,
@@ -987,11 +987,11 @@
     "tags": []
   },
   {
-    "id": "0058-hisui",
+    "id": "0058-hisuian",
     "dex": 58,
-    "displayName": "Hisui Growlithe",
+    "displayName": "Hisuian Growlithe",
     "baseSpecies": "Growlithe",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Fire", "Rock"],
     "canBeShiny": true,
@@ -1011,11 +1011,11 @@
     "tags": []
   },
   {
-    "id": "0059-hisui",
+    "id": "0059-hisuian",
     "dex": 59,
-    "displayName": "Hisui Arcanine",
+    "displayName": "Hisuian Arcanine",
     "baseSpecies": "Arcanine",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Fire", "Rock"],
     "canBeShiny": true,
@@ -1227,11 +1227,11 @@
     "tags": []
   },
   {
-    "id": "0074-alola",
+    "id": "0074-alolan",
     "dex": 74,
     "displayName": "Alolan Geodude",
     "baseSpecies": "Geodude",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Rock", "Electric"],
     "canBeShiny": true,
@@ -1251,11 +1251,11 @@
     "tags": []
   },
   {
-    "id": "0075-alola",
+    "id": "0075-alolan",
     "dex": 75,
     "displayName": "Alolan Graveler",
     "baseSpecies": "Graveler",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Rock", "Electric"],
     "canBeShiny": true,
@@ -1275,11 +1275,11 @@
     "tags": []
   },
   {
-    "id": "0076-alola",
+    "id": "0076-alolan",
     "dex": 76,
     "displayName": "Alolan Golem",
     "baseSpecies": "Golem",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Rock", "Electric"],
     "canBeShiny": true,
@@ -1299,11 +1299,11 @@
     "tags": []
   },
   {
-    "id": "0077-galar",
+    "id": "0077-galarian",
     "dex": 77,
-    "displayName": "Galar Ponyta",
+    "displayName": "Galarian Ponyta",
     "baseSpecies": "Ponyta",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Psychic"],
     "canBeShiny": true,
@@ -1323,11 +1323,11 @@
     "tags": []
   },
   {
-    "id": "0078-galar",
+    "id": "0078-galarian",
     "dex": 78,
-    "displayName": "Galar Rapidash",
+    "displayName": "Galarian Rapidash",
     "baseSpecies": "Rapidash",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Psychic", "Fairy"],
     "canBeShiny": true,
@@ -1347,11 +1347,11 @@
     "tags": []
   },
   {
-    "id": "0079-galar",
+    "id": "0079-galarian",
     "dex": 79,
-    "displayName": "Galar Slowpoke",
+    "displayName": "Galarian Slowpoke",
     "baseSpecies": "Slowpoke",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Psychic"],
     "canBeShiny": true,
@@ -1383,11 +1383,11 @@
     "tags": []
   },
   {
-    "id": "0080-galar",
+    "id": "0080-galarian",
     "dex": 80,
-    "displayName": "Galar Slowbro",
+    "displayName": "Galarian Slowbro",
     "baseSpecies": "Slowbro",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Poison", "Psychic"],
     "canBeShiny": true,
@@ -1431,11 +1431,11 @@
     "tags": []
   },
   {
-    "id": "0083-galar",
+    "id": "0083-galarian",
     "dex": 83,
-    "displayName": "Galar Farfetch'd",
+    "displayName": "Galarian Farfetch'd",
     "baseSpecies": "Farfetch'd",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Fighting"],
     "canBeShiny": true,
@@ -1503,11 +1503,11 @@
     "tags": []
   },
   {
-    "id": "0088-alola",
+    "id": "0088-alolan",
     "dex": 88,
     "displayName": "Alolan Grimer",
     "baseSpecies": "Grimer",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Poison", "Dark"],
     "canBeShiny": true,
@@ -1527,11 +1527,11 @@
     "tags": []
   },
   {
-    "id": "0089-alola",
+    "id": "0089-alolan",
     "dex": 89,
     "displayName": "Alolan Muk",
     "baseSpecies": "Muk",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Poison", "Dark"],
     "canBeShiny": true,
@@ -1707,11 +1707,11 @@
     "tags": []
   },
   {
-    "id": "0100-hisui",
+    "id": "0100-hisuian",
     "dex": 100,
-    "displayName": "Hisui Voltorb",
+    "displayName": "Hisuian Voltorb",
     "baseSpecies": "Voltorb",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Electric", "Grass"],
     "canBeShiny": true,
@@ -1731,11 +1731,11 @@
     "tags": []
   },
   {
-    "id": "0101-hisui",
+    "id": "0101-hisuian",
     "dex": 101,
-    "displayName": "Hisui Electrode",
+    "displayName": "Hisuian Electrode",
     "baseSpecies": "Electrode",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Electric", "Grass"],
     "canBeShiny": true,
@@ -1767,11 +1767,11 @@
     "tags": []
   },
   {
-    "id": "0103-alola",
+    "id": "0103-alolan",
     "dex": 103,
     "displayName": "Alolan Exeggutor",
     "baseSpecies": "Exeggutor",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Grass", "Dragon"],
     "canBeShiny": true,
@@ -1803,11 +1803,11 @@
     "tags": []
   },
   {
-    "id": "0105-alola",
+    "id": "0105-alolan",
     "dex": 105,
     "displayName": "Alolan Marowak",
     "baseSpecies": "Marowak",
-    "formCode": "alola",
+    "formCode": "alolan",
     "formType": "regional",
     "types": ["Fire", "Ghost"],
     "canBeShiny": true,
@@ -1875,11 +1875,11 @@
     "tags": []
   },
   {
-    "id": "0110-galar",
+    "id": "0110-galarian",
     "dex": 110,
-    "displayName": "Galar Weezing",
+    "displayName": "Galarian Weezing",
     "baseSpecies": "Weezing",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Poison", "Fairy"],
     "canBeShiny": true,
@@ -2055,11 +2055,11 @@
     "tags": []
   },
   {
-    "id": "0122-galar",
+    "id": "0122-galarian",
     "dex": 122,
-    "displayName": "Galar Mr. Mime",
+    "displayName": "Galarian Mr. Mime",
     "baseSpecies": "Mr. Mime",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Ice", "Psychic"],
     "canBeShiny": true,
@@ -2439,11 +2439,11 @@
     "tags": ["legendary"]
   },
   {
-    "id": "0144-galar",
+    "id": "0144-galarian",
     "dex": 144,
-    "displayName": "Galar Articuno",
+    "displayName": "Galarian Articuno",
     "baseSpecies": "Articuno",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Psychic", "Flying"],
     "canBeShiny": true,
@@ -2463,11 +2463,11 @@
     "tags": ["legendary"]
   },
   {
-    "id": "0145-galar",
+    "id": "0145-galarian",
     "dex": 145,
-    "displayName": "Galar Zapdos",
+    "displayName": "Galarian Zapdos",
     "baseSpecies": "Zapdos",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Fighting", "Flying"],
     "canBeShiny": true,
@@ -2487,11 +2487,11 @@
     "tags": ["legendary"]
   },
   {
-    "id": "0146-galar",
+    "id": "0146-galarian",
     "dex": 146,
-    "displayName": "Galar Moltres",
+    "displayName": "Galarian Moltres",
     "baseSpecies": "Moltres",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Dark", "Flying"],
     "canBeShiny": true,
@@ -2680,11 +2680,11 @@
     "tags": []
   },
   {
-    "id": "0157-hisui",
+    "id": "0157-hisuian",
     "dex": 157,
-    "displayName": "Hisui Typhlosion",
+    "displayName": "Hisuian Typhlosion",
     "baseSpecies": "Typhlosion",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Fire", "Ghost"],
     "canBeShiny": true,
@@ -3232,11 +3232,11 @@
     "tags": []
   },
   {
-    "id": "0199-galar",
+    "id": "0199-galarian",
     "dex": 199,
-    "displayName": "Galar Slowking",
+    "displayName": "Galarian Slowking",
     "baseSpecies": "Slowking",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Poison", "Psychic"],
     "canBeShiny": true,
@@ -3400,11 +3400,11 @@
     "tags": []
   },
   {
-    "id": "0211-hisui",
+    "id": "0211-hisuian",
     "dex": 211,
-    "displayName": "Hisui Qwilfish",
+    "displayName": "Hisuian Qwilfish",
     "baseSpecies": "Qwilfish",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Dark", "Poison"],
     "canBeShiny": true,
@@ -3484,11 +3484,11 @@
     "tags": []
   },
   {
-    "id": "0215-hisui",
+    "id": "0215-hisuian",
     "dex": 215,
-    "displayName": "Hisui Sneasel",
+    "displayName": "Hisuian Sneasel",
     "baseSpecies": "Sneasel",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Fighting", "Poison"],
     "canBeShiny": true,
@@ -3580,11 +3580,11 @@
     "tags": []
   },
   {
-    "id": "0222-galar",
+    "id": "0222-galarian",
     "dex": 222,
-    "displayName": "Galar Corsola",
+    "displayName": "Galarian Corsola",
     "baseSpecies": "Corsola",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Ghost"],
     "canBeShiny": true,
@@ -4144,11 +4144,11 @@
     "tags": []
   },
   {
-    "id": "0263-galar",
+    "id": "0263-galarian",
     "dex": 263,
-    "displayName": "Galar Zigzagoon",
+    "displayName": "Galarian Zigzagoon",
     "baseSpecies": "Zigzagoon",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Dark", "Normal"],
     "canBeShiny": true,
@@ -4168,11 +4168,11 @@
     "tags": []
   },
   {
-    "id": "0264-galar",
+    "id": "0264-galarian",
     "dex": 264,
-    "displayName": "Galar Linoone",
+    "displayName": "Galarian Linoone",
     "baseSpecies": "Linoone",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Dark", "Normal"],
     "canBeShiny": true,
@@ -7374,7 +7374,7 @@
   {
     "id": "0483-origin",
     "dex": 483,
-    "displayName": "Origin Forme Dialga",
+    "displayName": "Dialga Origin Forme",
     "baseSpecies": "Dialga",
     "formCode": "origin",
     "formType": "alternate",
@@ -7398,7 +7398,7 @@
   {
     "id": "0484-origin",
     "dex": 484,
-    "displayName": "Origin Forme Palkia",
+    "displayName": "Palkia Origin Forme",
     "baseSpecies": "Palkia",
     "formCode": "origin",
     "formType": "alternate",
@@ -7888,11 +7888,11 @@
     "tags": []
   },
   {
-    "id": "0503-hisui",
+    "id": "0503-hisuian",
     "dex": 503,
-    "displayName": "Hisui Samurott",
+    "displayName": "Hisuian Samurott",
     "baseSpecies": "Samurott",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Water", "Dark"],
     "canBeShiny": true,
@@ -8488,11 +8488,11 @@
     "tags": []
   },
   {
-    "id": "0549-hisui",
+    "id": "0549-hisuian",
     "dex": 549,
-    "displayName": "Hisui Lilligant",
+    "displayName": "Hisuian Lilligant",
     "baseSpecies": "Lilligant",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Grass", "Fighting"],
     "canBeShiny": true,
@@ -8584,11 +8584,11 @@
     "tags": []
   },
   {
-    "id": "0554-galar",
+    "id": "0554-galarian",
     "dex": 554,
-    "displayName": "Galar Darumaka",
+    "displayName": "Galarian Darumaka",
     "baseSpecies": "Darumaka",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Ice"],
     "canBeShiny": true,
@@ -8620,11 +8620,11 @@
     "tags": []
   },
   {
-    "id": "0555-galar-standard",
+    "id": "0555-galarian-standard",
     "dex": 555,
-    "displayName": "Galar Darmanitan Standard Mode",
+    "displayName": "Galarian Darmanitan Standard Mode",
     "baseSpecies": "Darmanitan",
-    "formCode": "galar-standard",
+    "formCode": "galarian-standard",
     "formType": "regional",
     "types": ["Ice"],
     "canBeShiny": true,
@@ -8632,11 +8632,11 @@
     "tags": []
   },
   {
-    "id": "0555-galar-zen",
+    "id": "0555-galarian-zen",
     "dex": 555,
-    "displayName": "Galar Darmanitan Zen Mode",
+    "displayName": "Galarian Darmanitan Zen Mode",
     "baseSpecies": "Darmanitan",
-    "formCode": "galar-zen",
+    "formCode": "galarian-zen",
     "formType": "regional",
     "types": ["Ice", "Fire"],
     "canBeShiny": true,
@@ -8740,11 +8740,11 @@
     "tags": []
   },
   {
-    "id": "0562-galar",
+    "id": "0562-galarian",
     "dex": 562,
-    "displayName": "Galar Yamask",
+    "displayName": "Galarian Yamask",
     "baseSpecies": "Yamask",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Ground", "Ghost"],
     "canBeShiny": true,
@@ -8860,11 +8860,11 @@
     "tags": []
   },
   {
-    "id": "0570-hisui",
+    "id": "0570-hisuian",
     "dex": 570,
-    "displayName": "Hisui Zorua",
+    "displayName": "Hisuian Zorua",
     "baseSpecies": "Zorua",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Normal", "Ghost"],
     "canBeShiny": true,
@@ -8884,11 +8884,11 @@
     "tags": []
   },
   {
-    "id": "0571-hisui",
+    "id": "0571-hisuian",
     "dex": 571,
-    "displayName": "Hisui Zoroark",
+    "displayName": "Hisuian Zoroark",
     "baseSpecies": "Zoroark",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Normal", "Ghost"],
     "canBeShiny": true,
@@ -9556,11 +9556,11 @@
     "tags": []
   },
   {
-    "id": "0618-galar",
+    "id": "0618-galarian",
     "dex": 618,
-    "displayName": "Galar Stunfisk",
+    "displayName": "Galarian Stunfisk",
     "baseSpecies": "Stunfisk",
-    "formCode": "galar",
+    "formCode": "galarian",
     "formType": "regional",
     "types": ["Ground", "Steel"],
     "canBeShiny": true,
@@ -9700,11 +9700,11 @@
     "tags": []
   },
   {
-    "id": "0628-hisui",
+    "id": "0628-hisuian",
     "dex": 628,
-    "displayName": "Hisui Braviary",
+    "displayName": "Hisuian Braviary",
     "baseSpecies": "Braviary",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Psychic", "Flying"],
     "canBeShiny": true,
@@ -11368,11 +11368,11 @@
     "tags": []
   },
   {
-    "id": "0705-hisui",
+    "id": "0705-hisuian",
     "dex": 705,
-    "displayName": "Hisui Sliggoo",
+    "displayName": "Hisuian Sliggoo",
     "baseSpecies": "Sliggoo",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Steel", "Dragon"],
     "canBeShiny": true,
@@ -11392,11 +11392,11 @@
     "tags": []
   },
   {
-    "id": "0706-hisui",
+    "id": "0706-hisuian",
     "dex": 706,
-    "displayName": "Hisui Goodra",
+    "displayName": "Hisuian Goodra",
     "baseSpecies": "Goodra",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Steel", "Dragon"],
     "canBeShiny": true,
@@ -11548,11 +11548,11 @@
     "tags": []
   },
   {
-    "id": "0712-hisui",
+    "id": "0712-hisuian",
     "dex": 712,
-    "displayName": "Hisui Bergmite",
+    "displayName": "Hisuian Bergmite",
     "baseSpecies": "Bergmite",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Ice", "Rock"],
     "canBeShiny": true,
@@ -11572,11 +11572,11 @@
     "tags": []
   },
   {
-    "id": "0713-hisui",
+    "id": "0713-hisuian",
     "dex": 713,
-    "displayName": "Hisui Avalugg",
+    "displayName": "Hisuian Avalugg",
     "baseSpecies": "Avalugg",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Ice", "Rock"],
     "canBeShiny": true,
@@ -11776,11 +11776,11 @@
     "tags": []
   },
   {
-    "id": "0724-hisui",
+    "id": "0724-hisuian",
     "dex": 724,
-    "displayName": "Hisui Decidueye",
+    "displayName": "Hisuian Decidueye",
     "baseSpecies": "Decidueye",
-    "formCode": "hisui",
+    "formCode": "hisuian",
     "formType": "regional",
     "types": ["Grass", "Fighting"],
     "canBeShiny": true,
@@ -14922,7 +14922,7 @@
   {
     "id": "0901-bloodmoon",
     "dex": 901,
-    "displayName": "Ursaluna Bloodmoon",
+    "displayName": "Ursaluna Bloodmoon Forme",
     "baseSpecies": "Ursaluna",
     "formCode": "bloodmoon",
     "formType": "alternate",
