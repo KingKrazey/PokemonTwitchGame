@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-03-21T00:00:00Z",
+  "schemaVersion": 1.1,
+  "generatedAt": "2026-03-27T18:00:00Z",
   "pokemon": [
   {
     "id": "0001-base",
@@ -45,6 +45,18 @@
     "baseSpecies": "Venusaur",
     "formCode": "mega",
     "formType": "mega",
+    "types": ["Grass", "Poison"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0003-gmax",
+    "dex": 3,
+    "displayName": "G-Max Venusaur",
+    "baseSpecies": "Venusaur",
+    "formCode": "gmax",
+    "formType": "gmax",
     "types": ["Grass", "Poison"],
     "canBeShiny": true,
     "enabled": true,
@@ -213,6 +225,18 @@
     "baseSpecies": "Butterfree",
     "formCode": "base",
     "formType": "base",
+    "types": ["Bug", "Flying"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0012-gmax",
+    "dex": 12,
+    "displayName": "G-Max Butterfree",
+    "baseSpecies": "Butterfree",
+    "formCode": "gmax",
+    "formType": "gmax",
     "types": ["Bug", "Flying"],
     "canBeShiny": true,
     "enabled": true,
@@ -843,6 +867,18 @@
     "tags": []
   },
   {
+    "id": "0052-gmax",
+    "dex": 52,
+    "displayName": "G-Max Meowth",
+    "baseSpecies": "Meowth",
+    "formCode": "gmax",
+    "formType": "gmax",
+    "types": ["Normal"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0052-alola",
     "dex": 52,
     "displayName": "Alolan Meowth",
@@ -857,7 +893,7 @@
   {
     "id": "0052-galar",
     "dex": 52,
-    "displayName": "Galarian Meowth",
+    "displayName": "Galar Meowth",
     "baseSpecies": "Meowth",
     "formCode": "galar",
     "formType": "regional",
@@ -953,7 +989,7 @@
   {
     "id": "0058-hisui",
     "dex": 58,
-    "displayName": "Hisuian Growlithe",
+    "displayName": "Hisui Growlithe",
     "baseSpecies": "Growlithe",
     "formCode": "hisui",
     "formType": "regional",
@@ -977,7 +1013,7 @@
   {
     "id": "0059-hisui",
     "dex": 59,
-    "displayName": "Hisuian Arcanine",
+    "displayName": "Hisui Arcanine",
     "baseSpecies": "Arcanine",
     "formCode": "hisui",
     "formType": "regional",
@@ -1101,6 +1137,18 @@
     "baseSpecies": "Machamp",
     "formCode": "base",
     "formType": "base",
+    "types": ["Fighting"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0068-gmax",
+    "dex": 68,
+    "displayName": "G-Max Machamp",
+    "baseSpecies": "Machamp",
+    "formCode": "gmax",
+    "formType": "gmax",
     "types": ["Fighting"],
     "canBeShiny": true,
     "enabled": true,
@@ -1251,6 +1299,18 @@
     "tags": []
   },
   {
+    "id": "0077-galar",
+    "dex": 77,
+    "displayName": "Galar Ponyta",
+    "baseSpecies": "Ponyta",
+    "formCode": "galar",
+    "formType": "regional",
+    "types": ["Psychic"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0078-base",
     "dex": 78,
     "displayName": "Rapidash",
@@ -1258,6 +1318,18 @@
     "formCode": "base",
     "formType": "base",
     "types": ["Fire"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0078-galar",
+    "dex": 78,
+    "displayName": "Galar Rapidash",
+    "baseSpecies": "Rapidash",
+    "formCode": "galar",
+    "formType": "regional",
+    "types": ["Psychic", "Fairy"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -1277,7 +1349,7 @@
   {
     "id": "0079-galar",
     "dex": 79,
-    "displayName": "Galarian Slowpoke",
+    "displayName": "Galar Slowpoke",
     "baseSpecies": "Slowpoke",
     "formCode": "galar",
     "formType": "regional",
@@ -1313,7 +1385,7 @@
   {
     "id": "0080-galar",
     "dex": 80,
-    "displayName": "Galarian Slowbro",
+    "displayName": "Galar Slowbro",
     "baseSpecies": "Slowbro",
     "formCode": "galar",
     "formType": "regional",
@@ -1361,7 +1433,7 @@
   {
     "id": "0083-galar",
     "dex": 83,
-    "displayName": "Galarian Farfetch'd",
+    "displayName": "Galar Farfetch'd",
     "baseSpecies": "Farfetch'd",
     "formCode": "galar",
     "formType": "regional",
@@ -1635,6 +1707,18 @@
     "tags": []
   },
   {
+    "id": "0100-hisui",
+    "dex": 100,
+    "displayName": "Hisui Voltorb",
+    "baseSpecies": "Voltorb",
+    "formCode": "hisui",
+    "formType": "regional",
+    "types": ["Electric", "Grass"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0101-base",
     "dex": 101,
     "displayName": "Electrode",
@@ -1642,6 +1726,18 @@
     "formCode": "base",
     "formType": "base",
     "types": ["Electric"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0101-hisui",
+    "dex": 101,
+    "displayName": "Hisui Electrode",
+    "baseSpecies": "Electrode",
+    "formCode": "hisui",
+    "formType": "regional",
+    "types": ["Electric", "Grass"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -1781,7 +1877,7 @@
   {
     "id": "0110-galar",
     "dex": 110,
-    "displayName": "Galarian Weezing",
+    "displayName": "Galar Weezing",
     "baseSpecies": "Weezing",
     "formCode": "galar",
     "formType": "regional",
@@ -1935,6 +2031,18 @@
     "tags": []
   },
   {
+    "id": "0121-mega",
+    "dex": 121,
+    "displayName": "Mega Starmie",
+    "baseSpecies": "Starmie",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Water", "Psychic"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0122-base",
     "dex": 122,
     "displayName": "Mr. Mime",
@@ -1949,7 +2057,7 @@
   {
     "id": "0122-galar",
     "dex": 122,
-    "displayName": "Galarian Mr. Mime",
+    "displayName": "Galar Mr. Mime",
     "baseSpecies": "Mr. Mime",
     "formCode": "galar",
     "formType": "regional",
@@ -2333,7 +2441,7 @@
   {
     "id": "0144-galar",
     "dex": 144,
-    "displayName": "Galarian Articuno",
+    "displayName": "Galar Articuno",
     "baseSpecies": "Articuno",
     "formCode": "galar",
     "formType": "regional",
@@ -2357,7 +2465,7 @@
   {
     "id": "0145-galar",
     "dex": 145,
-    "displayName": "Galarian Zapdos",
+    "displayName": "Galar Zapdos",
     "baseSpecies": "Zapdos",
     "formCode": "galar",
     "formType": "regional",
@@ -2381,7 +2489,7 @@
   {
     "id": "0146-galar",
     "dex": 146,
-    "displayName": "Galarian Moltres",
+    "displayName": "Galar Moltres",
     "baseSpecies": "Moltres",
     "formCode": "galar",
     "formType": "regional",
@@ -2421,6 +2529,18 @@
     "baseSpecies": "Dragonite",
     "formCode": "base",
     "formType": "base",
+    "types": ["Dragon", "Flying"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0149-mega",
+    "dex": 149,
+    "displayName": "Mega Dragonite",
+    "baseSpecies": "Dragonite",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Dragon", "Flying"],
     "canBeShiny": true,
     "enabled": true,
@@ -2511,6 +2631,19 @@
     "tags": []
   },
   {
+    "id": "0154-mega",
+    "dex": 154,
+    "displayName": "Mega Meganium",
+    "baseSpecies": "Meganium",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Grass", "Fairy"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+
+  {
     "id": "0155-base",
     "dex": 155,
     "displayName": "Cyndaquil",
@@ -2549,7 +2682,7 @@
   {
     "id": "0157-hisui",
     "dex": 157,
-    "displayName": "Hisuian Typhlosion",
+    "displayName": "Hisui Typhlosion",
     "baseSpecies": "Typhlosion",
     "formCode": "hisui",
     "formType": "regional",
@@ -2590,6 +2723,18 @@
     "formCode": "base",
     "formType": "base",
     "types": ["Water"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0160-mega",
+    "dex": 160,
+    "displayName": "Mega Feraligatr",
+    "baseSpecies": "Feraligatr",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Water", "Dragon"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -2736,7 +2881,7 @@
     "types": ["Electric"],
     "canBeShiny": true,
     "enabled": true,
-    "tags": [""]
+    "tags": []
   },
   {
     "id": "0173-base",
@@ -3089,7 +3234,7 @@
   {
     "id": "0199-galar",
     "dex": 199,
-    "displayName": "Galarian Slowking",
+    "displayName": "Galar Slowking",
     "baseSpecies": "Slowking",
     "formCode": "galar",
     "formType": "regional",
@@ -3257,7 +3402,7 @@
   {
     "id": "0211-hisui",
     "dex": 211,
-    "displayName": "Hisuian Qwilfish",
+    "displayName": "Hisui Qwilfish",
     "baseSpecies": "Qwilfish",
     "formCode": "hisui",
     "formType": "regional",
@@ -3341,7 +3486,7 @@
   {
     "id": "0215-hisui",
     "dex": 215,
-    "displayName": "Hisuian Sneasel",
+    "displayName": "Hisui Sneasel",
     "baseSpecies": "Sneasel",
     "formCode": "hisui",
     "formType": "regional",
@@ -3437,7 +3582,7 @@
   {
     "id": "0222-galar",
     "dex": 222,
-    "displayName": "Galarian Corsola",
+    "displayName": "Galar Corsola",
     "baseSpecies": "Corsola",
     "formCode": "galar",
     "formType": "regional",
@@ -4001,7 +4146,7 @@
   {
     "id": "0263-galar",
     "dex": 263,
-    "displayName": "Galarian Zigzagoon",
+    "displayName": "Galar Zigzagoon",
     "baseSpecies": "Zigzagoon",
     "formCode": "galar",
     "formType": "regional",
@@ -4025,7 +4170,7 @@
   {
     "id": "0264-galar",
     "dex": 264,
-    "displayName": "Galarian Linoone",
+    "displayName": "Galar Linoone",
     "baseSpecies": "Linoone",
     "formCode": "galar",
     "formType": "regional",
@@ -5187,6 +5332,42 @@
     "tags": []
   },
   {
+  "id": "0351-sunny",
+  "dex": 351,
+  "displayName": "Castform Sunny Form",
+  "baseSpecies": "Castform",
+  "formCode": "sunny",
+  "formType": "alternate",
+  "types": ["Fire"],
+  "canBeShiny": true,
+  "enabled": true,
+  "tags": []
+},
+{
+  "id": "0351-rainy",
+  "dex": 351,
+  "displayName": "Castform Rainy Form",
+  "baseSpecies": "Castform",
+  "formCode": "rainy",
+  "formType": "alternate",
+  "types": ["Water"],
+  "canBeShiny": true,
+  "enabled": true,
+  "tags": []
+},
+{
+  "id": "0351-snowy",
+  "dex": 351,
+  "displayName": "Castform Snowy Form",
+  "baseSpecies": "Castform",
+  "formCode": "snowy",
+  "formType": "alternate",
+  "types": ["Ice"],
+  "canBeShiny": true,
+  "enabled": true,
+  "tags": []
+},
+  {
     "id": "0352-base",
     "dex": 352,
     "displayName": "Kecleon",
@@ -5302,6 +5483,18 @@
     "formCode": "mega",
     "formType": "mega",
     "types": ["Dark"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0359-mega-z",
+    "dex": 359,
+    "displayName": "Mega Absol Z",
+    "baseSpecies": "Absol",
+    "formCode": "mega-z",
+    "formType": "mega",
+    "types": ["Dark", "Ghost"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -5902,6 +6095,18 @@
     "formCode": "base",
     "formType": "base",
     "types": ["Normal", "Flying"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0398-mega",
+    "dex": 398,
+    "displayName": "Mega Staraptor",
+    "baseSpecies": "Staraptor",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Fighting", "Flying"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -6578,6 +6783,18 @@
     "enabled": true,
     "tags": ["pseudo"]
   },
+   {
+    "id": "0445-mega-z",
+    "dex": 445,
+    "displayName": "Mega Garchomp Z",
+    "baseSpecies": "Garchomp",
+    "formCode": "mega-z",
+    "formType": "mega",
+    "types": ["Dragon"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
   {
     "id": "0446-base",
     "dex": 446,
@@ -6620,6 +6837,18 @@
     "displayName": "Mega Lucario",
     "baseSpecies": "Lucario",
     "formCode": "mega",
+    "formType": "mega",
+    "types": ["Fighting", "Steel"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0448-mega-z",
+    "dex": 448,
+    "displayName": "Mega Lucario Z",
+    "baseSpecies": "Lucario",
+    "formCode": "mega-z",
     "formType": "mega",
     "types": ["Fighting", "Steel"],
     "canBeShiny": true,
@@ -7011,6 +7240,18 @@
     "tags": []
   },
   {
+    "id": "0478-mega",
+    "dex": 478,
+    "displayName": "Mega Froslass",
+    "baseSpecies": "Froslass",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Ice", "Ghost"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0479-base",
     "dex": 479,
     "displayName": "Rotom",
@@ -7179,6 +7420,18 @@
     "tags": ["legendary"]
   },
   {
+    "id": "0485-mega",
+    "dex": 485,
+    "displayName": "Mega Heatran",
+    "baseSpecies": "Heatran",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Fire", "Steel"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0486-base",
     "dex": 486,
     "displayName": "Regigigas",
@@ -7261,6 +7514,18 @@
     "canBeShiny": true,
     "enabled": true,
     "tags": ["mythical"]
+  },
+  {
+    "id": "0491-mega",
+    "dex": 491,
+    "displayName": "Mega Darkrai",
+    "baseSpecies": "Darkrai",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Dark"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
   },
   {
     "id": "0492-land",
@@ -7625,7 +7890,7 @@
   {
     "id": "0503-hisui",
     "dex": 503,
-    "displayName": "Hisuian Samurott",
+    "displayName": "Hisui Samurott",
     "baseSpecies": "Samurott",
     "formCode": "hisui",
     "formType": "regional",
@@ -7959,6 +8224,18 @@
     "tags": []
   },
   {
+    "id": "0530-mega",
+    "dex": 530,
+    "displayName": "Mega Excadrill",
+    "baseSpecies": "Excadrill",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Ground", "Steel"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0531-base",
     "dex": 531,
     "displayName": "Audino",
@@ -8151,6 +8428,18 @@
     "tags": []
   },
   {
+    "id": "0545-mega",
+    "dex": 545,
+    "displayName": "Mega Scolipede",
+    "baseSpecies": "Scolipede",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Bug", "Poison"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0546-base",
     "dex": 546,
     "displayName": "Cottonee",
@@ -8201,7 +8490,7 @@
   {
     "id": "0549-hisui",
     "dex": 549,
-    "displayName": "Hisuian Lilligant",
+    "displayName": "Hisui Lilligant",
     "baseSpecies": "Lilligant",
     "formCode": "hisui",
     "formType": "regional",
@@ -8297,7 +8586,7 @@
   {
     "id": "0554-galar",
     "dex": 554,
-    "displayName": "Galarian Darumaka",
+    "displayName": "Galar Darumaka",
     "baseSpecies": "Darumaka",
     "formCode": "galar",
     "formType": "regional",
@@ -8333,7 +8622,7 @@
   {
     "id": "0555-galar-standard",
     "dex": 555,
-    "displayName": "Galarian Darmanitan Standard Mode",
+    "displayName": "Galar Darmanitan Standard Mode",
     "baseSpecies": "Darmanitan",
     "formCode": "galar-standard",
     "formType": "regional",
@@ -8345,7 +8634,7 @@
   {
     "id": "0555-galar-zen",
     "dex": 555,
-    "displayName": "Galarian Darmanitan Zen Mode",
+    "displayName": "Galar Darmanitan Zen Mode",
     "baseSpecies": "Darmanitan",
     "formCode": "galar-zen",
     "formType": "regional",
@@ -8415,6 +8704,18 @@
     "tags": []
   },
   {
+    "id": "0560-mega",
+    "dex": 560,
+    "displayName": "Mega Scrafty",
+    "baseSpecies": "Scrafty",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Dark", "Fighting"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0561-base",
     "dex": 561,
     "displayName": "Sigilyph",
@@ -8441,7 +8742,7 @@
   {
     "id": "0562-galar",
     "dex": 562,
-    "displayName": "Galarian Yamask",
+    "displayName": "Galar Yamask",
     "baseSpecies": "Yamask",
     "formCode": "galar",
     "formType": "regional",
@@ -8561,7 +8862,7 @@
   {
     "id": "0570-hisui",
     "dex": 570,
-    "displayName": "Hisuian Zorua",
+    "displayName": "Hisui Zorua",
     "baseSpecies": "Zorua",
     "formCode": "hisui",
     "formType": "regional",
@@ -8585,7 +8886,7 @@
   {
     "id": "0571-hisui",
     "dex": 571,
-    "displayName": "Hisuian Zoroark",
+    "displayName": "Hisui Zoroark",
     "baseSpecies": "Zoroark",
     "formCode": "hisui",
     "formType": "regional",
@@ -9063,6 +9364,18 @@
     "tags": []
   },
   {
+    "id": "0604-mega",
+    "dex": 604,
+    "displayName": "Mega Eelektross",
+    "baseSpecies": "Eelektross",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Electric"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0605-base",
     "dex": 605,
     "displayName": "Elgyem",
@@ -9117,6 +9430,18 @@
     "baseSpecies": "Chandelure",
     "formCode": "base",
     "formType": "base",
+    "types": ["Ghost", "Fire"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0609-mega",
+    "dex": 609,
+    "displayName": "Mega Chandelure",
+    "baseSpecies": "Chandelure",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Ghost", "Fire"],
     "canBeShiny": true,
     "enabled": true,
@@ -9233,7 +9558,7 @@
   {
     "id": "0618-galar",
     "dex": 618,
-    "displayName": "Galarian Stunfisk",
+    "displayName": "Galar Stunfisk",
     "baseSpecies": "Stunfisk",
     "formCode": "galar",
     "formType": "regional",
@@ -9303,6 +9628,18 @@
     "tags": []
   },
   {
+    "id": "0623-mega",
+    "dex": 623,
+    "displayName": "Mega Golurk",
+    "baseSpecies": "Golurk",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Ground", "Ghost"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0624-base",
     "dex": 624,
     "displayName": "Pawniard",
@@ -9365,7 +9702,7 @@
   {
     "id": "0628-hisui",
     "dex": 628,
-    "displayName": "Hisuian Braviary",
+    "displayName": "Hisui Braviary",
     "baseSpecies": "Braviary",
     "formCode": "hisui",
     "formType": "regional",
@@ -9747,6 +10084,18 @@
     "tags": []
   },
   {
+    "id": "0652-mega",
+    "dex": 652,
+    "displayName": "Mega Chesnaught",
+    "baseSpecies": "Chesnaught",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Grass", "Fighting"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0653-base",
     "dex": 653,
     "displayName": "Fennekin",
@@ -9777,6 +10126,18 @@
     "baseSpecies": "Delphox",
     "formCode": "base",
     "formType": "base",
+    "types": ["Fire", "Psychic"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0655-mega",
+    "dex": 655,
+    "displayName": "Mega Delphox",
+    "baseSpecies": "Delphox",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Fire", "Psychic"],
     "canBeShiny": true,
     "enabled": true,
@@ -9827,6 +10188,18 @@
     "formType": "alternate",
     "types": ["Water", "Dark"],
     "canBeShiny": false,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0658-mega",
+    "dex": 658,
+    "displayName": "Mega Greninja",
+    "baseSpecies": "Greninja",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Water", "Dark"],
+    "canBeShiny": true,
     "enabled": true,
     "tags": []
   },
@@ -10179,6 +10552,18 @@
     "tags": []
   },
   {
+    "id": "0668-mega",
+    "dex": 668,
+    "displayName": "Mega Pyroar",
+    "baseSpecies": "Pyroar",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Fire", "Normal"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0669-red",
     "dex": 669,
     "displayName": "Flabébé Red Flower",
@@ -10309,6 +10694,18 @@
     "canBeShiny": false,
     "enabled": true,
     "tags": []
+  },
+  {
+    "id": "0670-mega-eternal-flower",
+    "dex": 670,
+    "displayName": "Mega Eternal Flower Floette",
+    "baseSpecies": "Floette",
+    "formCode": "mega-eternal-flower",
+    "formType": "mega",
+    "types": ["Fairy"],
+    "canBeShiny": false,
+    "enabled": true,
+    "tags": ["eternal-flower"]
   },
   {
     "id": "0671-red",
@@ -10575,6 +10972,18 @@
     "tags": []
   },
   {
+    "id": "0678-mega",
+    "dex": 678,
+    "displayName": "Mega Meowstic",
+    "baseSpecies": "Meowstic",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Psychic"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0679-base",
     "dex": 679,
     "displayName": "Honedge",
@@ -10695,6 +11104,18 @@
     "tags": []
   },
   {
+    "id": "0687-mega",
+    "dex": 687,
+    "displayName": "Mega Malamar",
+    "baseSpecies": "Malamar",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Dark", "Psychic"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0688-base",
     "dex": 688,
     "displayName": "Binacle",
@@ -10719,6 +11140,18 @@
     "tags": []
   },
   {
+    "id": "0689-mega",
+    "dex": 689,
+    "displayName": "Mega Barbaracle",
+    "baseSpecies": "Barbaracle",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Rock", "Fighting"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0690-base",
     "dex": 690,
     "displayName": "Skrelp",
@@ -10737,6 +11170,18 @@
     "baseSpecies": "Dragalge",
     "formCode": "base",
     "formType": "base",
+    "types": ["Poison", "Dragon"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0691-mega",
+    "dex": 691,
+    "displayName": "Mega Dragalge",
+    "baseSpecies": "Dragalge",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Poison", "Dragon"],
     "canBeShiny": true,
     "enabled": true,
@@ -10863,6 +11308,18 @@
     "tags": []
   },
   {
+    "id": "0701-mega",
+    "dex": 701,
+    "displayName": "Mega Hawlucha",
+    "baseSpecies": "Hawlucha",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Fighting", "Flying"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0702-base",
     "dex": 702,
     "displayName": "Dedenne",
@@ -10913,7 +11370,7 @@
   {
     "id": "0705-hisui",
     "dex": 705,
-    "displayName": "Hisuian Sliggoo",
+    "displayName": "Hisui Sliggoo",
     "baseSpecies": "Sliggoo",
     "formCode": "hisui",
     "formType": "regional",
@@ -10937,7 +11394,7 @@
   {
     "id": "0706-hisui",
     "dex": 706,
-    "displayName": "Hisuian Goodra",
+    "displayName": "Hisui Goodra",
     "baseSpecies": "Goodra",
     "formCode": "hisui",
     "formType": "regional",
@@ -11093,7 +11550,7 @@
   {
     "id": "0712-hisui",
     "dex": 712,
-    "displayName": "Hisuian Bergmite",
+    "displayName": "Hisui Bergmite",
     "baseSpecies": "Bergmite",
     "formCode": "hisui",
     "formType": "regional",
@@ -11117,7 +11574,7 @@
   {
     "id": "0713-hisui",
     "dex": 713,
-    "displayName": "Hisuian Avalugg",
+    "displayName": "Hisui Avalugg",
     "baseSpecies": "Avalugg",
     "formCode": "hisui",
     "formType": "regional",
@@ -11209,6 +11666,18 @@
     "canBeShiny": true,
     "enabled": true,
     "tags": ["legendary"]
+  },
+  {
+    "id": "0718-mega",
+    "dex": 718,
+    "displayName": "Mega Zygarde",
+    "baseSpecies": "Zygarde",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Dragon", "Ground"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
   },
   {
     "id": "0719-base",
@@ -11309,7 +11778,7 @@
   {
     "id": "0724-hisui",
     "dex": 724,
-    "displayName": "Hisuian Decidueye",
+    "displayName": "Hisui Decidueye",
     "baseSpecies": "Decidueye",
     "formCode": "hisui",
     "formType": "regional",
@@ -11505,6 +11974,18 @@
     "baseSpecies": "Crabominable",
     "formCode": "base",
     "formType": "base",
+    "types": ["Fighting", "Ice"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0740-mega",
+    "dex": 740,
+    "displayName": "Mega Crabominable",
+    "baseSpecies": "Crabominable",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Fighting", "Ice"],
     "canBeShiny": true,
     "enabled": true,
@@ -11914,6 +12395,18 @@
     "formCode": "base",
     "formType": "base",
     "types": ["Bug", "Water"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0768-mega",
+    "dex": 768,
+    "displayName": "Mega Golisopod",
+    "baseSpecies": "Golisopod",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Bug", "Steel"],
     "canBeShiny": true,
     "enabled": true,
     "tags": []
@@ -12363,6 +12856,18 @@
     "tags": []
   },
   {
+    "id": "0780-mega",
+    "dex": 780,
+    "displayName": "Mega Drampa",
+    "baseSpecies": "Drampa",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Normal", "Dragon"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0781-base",
     "dex": 781,
     "displayName": "Dhelmise",
@@ -12663,6 +13168,18 @@
     "tags": ["mythical"]
   },
   {
+    "id": "0801-mega",
+    "dex": 801,
+    "displayName": "Mega Magearna",
+    "baseSpecies": "Magearna",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Steel", "Fairy"],
+    "canBeShiny": false,
+    "enabled": true,
+    "tags": ["mythical"]
+  },
+  {
     "id": "0802-base",
     "dex": 802,
     "displayName": "Marshadow",
@@ -12729,6 +13246,18 @@
     "baseSpecies": "Zeraora",
     "formCode": "base",
     "formType": "base",
+    "types": ["Electric"],
+    "canBeShiny": false,
+    "enabled": true,
+    "tags": ["mythical"]
+  },
+  {
+    "id": "0807-mega",
+    "dex": 807,
+    "displayName": "Mega Zeraora",
+    "baseSpecies": "Zeraora",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Electric"],
     "canBeShiny": false,
     "enabled": true,
@@ -13827,12 +14356,36 @@
     "tags": []
   },
   {
+    "id": "0869-gmax",
+    "dex": 869,
+    "displayName": "G-Max Alcremie",
+    "baseSpecies": "Alcremie",
+    "formCode": "gmax",
+    "formType": "gmax",
+    "types": ["Fairy"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0870-base",
     "dex": 870,
     "displayName": "Falinks",
     "baseSpecies": "Falinks",
     "formCode": "base",
     "formType": "base",
+    "types": ["Fighting"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
+    "id": "0870-mega",
+    "dex": 870,
+    "displayName": "Mega Falinks",
+    "baseSpecies": "Falinks",
+    "formCode": "mega",
+    "formType": "mega",
     "types": ["Fighting"],
     "canBeShiny": true,
     "enabled": true,
@@ -15075,6 +15628,18 @@
     "tags": []
   },
   {
+    "id": "0952-mega",
+    "dex": 952,
+    "displayName": "Mega Scovillain",
+    "baseSpecies": "Scovillain",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Grass", "Fire"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0953-base",
     "dex": 953,
     "displayName": "Rellor",
@@ -15303,6 +15868,18 @@
     "tags": []
   },
   {
+    "id": "0970-mega",
+    "dex": 970,
+    "displayName": "Mega Glimmora",
+    "baseSpecies": "Glimmora",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Rock", "Poison"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
+  },
+  {
     "id": "0971-base",
     "dex": 971,
     "displayName": "Greavard",
@@ -15421,6 +15998,42 @@
     "canBeShiny": true,
     "enabled": true,
     "tags": []
+  },
+  {
+    "id": "0978-mega-curly",
+    "dex": 978,
+    "displayName": "Mega Tatsugiri (Curly Form)",
+    "baseSpecies": "Tatsugiri",
+    "formCode": "mega-curly",
+    "formType": "mega",
+    "types": ["Dragon", "Water"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": ["curly-form"]
+  },
+  {
+    "id": "0978-mega-droopy",
+    "dex": 978,
+    "displayName": "Mega Tatsugiri (Droopy Form)",
+    "baseSpecies": "Tatsugiri",
+    "formCode": "mega-droopy",
+    "formType": "mega",
+    "types": ["Dragon", "Water"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": ["droopy-form"]
+  },
+  {
+    "id": "0978-mega-stretchy",
+    "dex": 978,
+    "displayName": "Mega Tatsugiri (Stretchy Form)",
+    "baseSpecies": "Tatsugiri",
+    "formCode": "mega-stretchy",
+    "formType": "mega",
+    "types": ["Dragon", "Water"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": ["stretchy-form"]
   },
   {
     "id": "0979-base",
@@ -15673,6 +16286,18 @@
     "canBeShiny": true,
     "enabled": true,
     "tags": ["pseudo"]
+  },
+  {
+    "id": "0998-mega",
+    "dex": 998,
+    "displayName": "Mega Baxcalibur",
+    "baseSpecies": "Baxcalibur",
+    "formCode": "mega",
+    "formType": "mega",
+    "types": ["Dragon", "Ice"],
+    "canBeShiny": true,
+    "enabled": true,
+    "tags": []
   },
   {
     "id": "0999-chest",
